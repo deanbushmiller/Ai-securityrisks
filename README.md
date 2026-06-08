@@ -16,3 +16,7 @@
 >   You can do the labs before class and still have other lab work to do in class for advanced people\
 >   Since we do not know if you have an LLM capable machine these labs are the best way to do the most work\
 >   We will be using these to map to concepts on ATLAS
+## 1 Required paid Ai subscription to run course the prompts
+>  Gemini
+>  Claude
+>  ChatGPT
