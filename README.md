@@ -10,3 +10,8 @@
 > 	[PoisonGPT](https://atlas.mitre.org/studies/AML.CS0019)\
 > 	[Clearview Ai Compromise](https://atlas.mitre.org/studies/AML.CS0006)\
 >   [Grok Morse Code Crypto Heist](https://neuraltrust.ai/blog/grok-morse-code)
+## Lab setup
+>  [DVLLM](https://dvllm.com/)
+>   We will be using Damn Vulnerable LLM - please create your account
+>   Since we do not know if you have an LLM capable machine these labs are the best way to do the most work
+>   We will be using these to map to concepts on ATLAS
